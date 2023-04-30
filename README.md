@@ -4,7 +4,7 @@
 This is the final year project (digital systems project) for the multi-stop route planner project, which allows users to efficiently plan journeys and view informative data to inform thier travel decisions.
 
 ## Prerequisites for running the project.
-**API keys are not included in this repository for security reasons.** Therefore, API keys from needed from these services:
+**API keys are not included in this repository for security reasons.** Therefore, API keys are needed from these services:
 * API token from the [Openrouteservice](https://openrouteservice.org/ "Openrouteservice website") for getting the distance matrix.
 * API key from [OpenWeatherMap](https://openweathermap.org/appid "Title") for weather and pollution data.
 * API key from [HERE](https://developer.here.com/tutorials/getting-here-credentials/ "Tutorial for getting HERE API key") for public transit routes.
