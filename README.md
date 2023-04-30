@@ -16,18 +16,19 @@ Either have the required Python modules installed on the host machine or create 
 
 ### Running the project in a virtual environment.
 If making a Python virtual environment, run this command to create one (from VSCode terminal):
-**python -m venv .venv**
+'**python -m venv .venv**'
 
 If the environment is not already activated, then activate it (command for Windows):
-**.venv/Scripts/activate**.
+'**.venv/Scripts/activate**'.
+
 It maybe **. .venv/bin/activate** for the MacOS operating system.
 
 Once the virtual environment is running, install the required Python modules:
-**pip install -r requirements.txt**
+'**pip install -r requirements.txt**'
 
 
 Finally, run this command to start the Flask app:
-**flask --app routes run**
+'**flask --app routes run**'
 
 Alternatively, only if a Python virtual environment is not being used, simply run the **routes.py** file in VSCode to start the Flask app.
 
